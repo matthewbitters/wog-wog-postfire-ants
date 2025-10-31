@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Ignore data folder
+data/
+
+# Ignore model outputs
+model_outputs/
