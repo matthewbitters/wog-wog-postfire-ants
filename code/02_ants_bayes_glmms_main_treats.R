@@ -1,6 +1,6 @@
 ### wog-wog-postfire-ants
 
-### 02_ants_bayes_glmms.R
+### 02_ants_bayes_glmms_main_treats.R
 
 ### Matt Bitters
 ### matthew.bitters@colorado.edu
